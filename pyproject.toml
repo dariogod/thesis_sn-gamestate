@@ -3,7 +3,6 @@ name = "sn-gamestate"
 version = "0.2.0"
 description = ""
 authors = []
-readme = "README.md"
 packages = [{include = "sn_gamestate"}]
 
 [tool.poetry.dependencies]
